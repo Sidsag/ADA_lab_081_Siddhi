@@ -1,0 +1,5 @@
+Vertex a is at a distance 0 from  a
+Vertex b is at a distance 1 from  a
+Vertex c is at a distance 1 from  a
+Vertex d is at a distance 2 from  a
+Vertex e is at a distance 2 from  a

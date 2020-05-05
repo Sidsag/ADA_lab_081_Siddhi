@@ -1,0 +1,14 @@
+enter ther no. of queen to be placed?
+This is 10queens problem:
+ 1  0  0  0  0  0  0  0  0  0 
+ 0  0  1  0  0  0  0  0  0  0 
+ 0  0  0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  0  0  0  1 
+ 0  0  0  0  1  0  0  0  0  0 
+ 0  0  0  0  0  0  0  0  1  0 
+ 0  1  0  0  0  0  0  0  0  0 
+ 0  0  0  1  0  0  0  0  0  0 
+ 0  0  0  0  0  0  1  0  0  0 
+
+time taken to solve:12 milisecond

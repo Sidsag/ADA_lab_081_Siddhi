@@ -1,0 +1,16 @@
+on performing the all three approach of nqueen problem ,we get following observation :
+
+sizeof Input    backtrack approach    optimize backtrackapproach       itterative version
+4                   5 ms                      13 ms                           6 ms
+8                   27 ms                     21 ms                           14 ms
+10                  22 ms                     18 ms                           21
+12                  30 ms                     23 ms                           212 ms
+16                  42  ms                    38 ms                             --
+20                  116 ms                    89 ms                             --
+
+Note:-- for value grater than 12 ,itterative approach is taken 1000 times more than other two.
+        
+Conclution: Optimize backtracking is best solution for nqueen problem as it's complexity
+is better than other two for n>=10. 
+for n<10 itterative approach works more effciently.
+Note:value of n may vary according to system and observation.

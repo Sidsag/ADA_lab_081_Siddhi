@@ -1,0 +1,7 @@
+vertices   degree
+a           2
+b           3
+c           2
+d           3
+e           2
+f           1

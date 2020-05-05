@@ -1,0 +1,2 @@
+mergesort 3
+insertion sort 19

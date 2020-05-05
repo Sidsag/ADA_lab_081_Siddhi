@@ -1,0 +1,5 @@
+Following are strongly connected components in given graph 
+a e b 
+c d 
+g f 
+h 
